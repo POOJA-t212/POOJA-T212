@@ -14,6 +14,18 @@ DevOps Engineer focused on automation and cloud technologies for efficiency.
 Hi, I'm Pooja 👋 a passionate Cloud/DevOps engineer from Gurugram, background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
 
+ Technologies and Tools
+1.Cloud: AWS
+2.Containerization: Docker, Kubernetes, ECS, EKS
+3.CI/CD: Jenkins, CI/CD
+4.Configuration Management: Ansible
+5.IaC: Terraform
+6.Monitoring: Prometheus, Grafana
+7.Scripting: Bash
+8.Version Control: Git, GitHub
+
+
+
 
 
 
